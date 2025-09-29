@@ -1,0 +1,61 @@
+<?php
+return [
+    'a1' => 'Architecture/Design/D1',
+    'a2' => "<strong>You will find below the presentation D1 (Design 1) of the 3D model of your villa, accompanied by the corresponding additional estimate if there is.</strong>
+                <br><br>
+                In order to develop the concept of your project, you can therefore schedule your appointment with our architect, by following the Calendly link below:
+                <br>
+                <a href='https://calendly.com/architectemagnitude/meeting-architecte' target='_'>https://calendly.com/architectemagnitude/meeting-architecte</a>
+                <br><br>
+                Finally, if you wish to send us any comments or questions, each page of your D1 presentation is displayed below and may be annotated.
+                <br>
+                We will then answer you (as far as possible) directly on this platform, and any modifications to the 3D will be discussed and carried out during the meeting with the architect.",
+    'a3' => 'View D1 design',
+    'a4' => 'Consult the additional estimate D1',
+    'a5' => 'Add your comment here',
+    'a6' => 'Add',
+    'a7' => 'Comments',
+    'a8' => '',
+    'a9' => '',
+    'a10' => '',
+    'a11' => '',
+    'a12' => '',
+    'a13' => '',
+    'a14' => '',
+    'a15' => '',
+    'a16' => '',
+    'a17' => '',
+    'a18' => '',
+    'a19' => '',
+    'a20' => '',
+    'a21' => '',
+    'a22' => '',
+    'a23' => '',
+    'a24' => '',
+    'a25' => '',
+    'a26' => '',
+    'a27' => '',
+    'a28' => '',
+    'a29' => '',
+    'a30' => '',
+    'a31' => '',
+    'a32' => '',
+    'a33' => '',
+    'a34' => '',
+    'a35' => '',
+    'a36' => '',
+    'a37' => '',
+    'a38' => '',
+    'a39' => '',
+    'a40' => '',
+    'a41' => '',
+    'a42' => '',
+    'a43' => '',
+    'a44' => '',
+    'a45' => '',
+    'a46' => '',
+    'a47' => '',
+    'a48' => '',
+    'a49' => '',
+    'a50' => '',
+];
