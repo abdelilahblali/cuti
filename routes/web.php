@@ -220,6 +220,8 @@ Route::post('freelance_updated_admin/{ref}', [Admin::class, 'freelance_updated_a
 Route::get('freelance_deleted_admin/{ref}', [Admin::class, 'freelance_deleted_admin'])->name('freelance_deleted_admin');
 
 
+// After Git
+Route::get('testing/{ref}', [Admin::class, 'testing'])->name('testing');
 
 
 
