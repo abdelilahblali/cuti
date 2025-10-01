@@ -202,7 +202,7 @@ Route::get('freelance_add', [Admin::class, 'freelance_add'])->name('freelance_ad
 Route::post('freelance_added', [Admin::class, 'freelance_added'])->name('freelance_added');
 Route::get('freelance_edit/{ref}', [Admin::class, 'freelance_edit'])->name('freelance_edit');
 Route::post('freelance_edited/{ref}', [Admin::class, 'freelance_edited'])->name('freelance_edited');
-Route::get('freelance_deleted/{ref}', [Admin::class, 'freelance_deleted'])->name('freelance_deleted');
+Route::get('freelance_deleted/{ref}', [Admin::class, 'freelance_deleted'])->name('freelance_del eted');
 Route::get('freelance_calendar', [Admin::class, 'freelance_calendar'])->name('freelance_calendar');
 Route::get('freelance_recap', [Admin::class, 'freelance_recap'])->name('freelance_recap');
 Route::get('freelance_etat/{etat}', [Admin::class, 'freelance_etat'])->name('freelance_etat');
@@ -222,6 +222,7 @@ Route::get('freelance_deleted_admin/{ref}', [Admin::class, 'freelance_deleted_ad
 
 // After Git
 Route::get('testing/{ref}', [Admin::class, 'testing'])->name('testing');
+Route::get('indah/{ref}', [Admin::class, 'indah'])->name('indah');
 
 
 
