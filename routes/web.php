@@ -226,6 +226,9 @@ Route::get('indah/{ref}', [Admin::class, 'indah'])->name('indah');
 Route::get('indah2/{ref}', [Admin::class, 'indah2'])->name('indah2');
 
 
+// i m Abdel , the KING of UBUD :D :D
+
+
 
 
 
