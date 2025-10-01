@@ -20,6 +20,10 @@ use App\Http\Controllers\Signature;
 |
 */
 // Web
+
+// INDAH MAKE THIS LINE 
+// other line from indah
+
 Route::get('/', function () { return view('home'); });
 Auth::routes(['verify' => true]);
 Route::get('locale/{locale}', function ($locale) { session()->put('locale', $locale); return Redirect::back(); });
