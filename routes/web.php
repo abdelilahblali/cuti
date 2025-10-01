@@ -223,6 +223,7 @@ Route::get('freelance_deleted_admin/{ref}', [Admin::class, 'freelance_deleted_ad
 // After Git
 Route::get('testing/{ref}', [Admin::class, 'testing'])->name('testing');
 Route::get('indah/{ref}', [Admin::class, 'indah'])->name('indah');
+Route::get('indah2/{ref}', [Admin::class, 'indah2'])->name('indah2');
 
 
 
