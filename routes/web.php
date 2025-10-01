@@ -22,7 +22,7 @@ use App\Http\Controllers\Signature;
 // Web
 
 // INDAH MAKE THIS LINE 
-// other line from indah
+// other line from indah -newwww
 
 Route::get('/', function () { return view('home'); });
 Auth::routes(['verify' => true]);
